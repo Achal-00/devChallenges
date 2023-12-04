@@ -1,8 +1,14 @@
-# React + Vite
+# Minimal Blog Card
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![minimal-blog-card](https://github.com/Achal-00/devChallenges/assets/106076516/4f8efcb4-70e3-46fe-ad9d-92f18ca018ca)
 
-Currently, two official plugins are available:
+[Live Demo](https://achal-00.github.io/devChallenges/minimal-blog-card/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[Minimal Blog Card](https://devchallenges.io/challenge/27) challenge solution on [devChallenges](https://devchallenges.io/)
+<br><br>
+
+## Built With
+
+- Vite
+- React
+- Tailwind CSS
