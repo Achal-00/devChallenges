@@ -4,11 +4,12 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        "custom-font": ["Lato", "sans-serif"],
+        "custom-font-head": ["Poppins", "sans-serif"],
+        "custom-font-sub": ["Lato", "sans-serif"],
       },
       colors: {
         "body-bg": "#F2F5F9",
-        headings: "#111729",
+        heading: "#111729",
         "sub-text": "#677489",
       },
     },
