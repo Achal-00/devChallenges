@@ -1,8 +1,14 @@
-# React + Vite
+# Business Blog Card
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![business-blog-card](https://github.com/Achal-00/devChallenges/assets/106076516/53ac207c-ccae-4131-958d-9839e2decc99)
 
-Currently, two official plugins are available:
+[Live Demo](https://achal-00.github.io/devChallenges/business-blog-card/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[Business Blog Card](https://devchallenges.io/challenge/28) challenge solution on [devChallenges](https://devchallenges.io/)
+<br><br>
+
+## Built With
+
+- Vite
+- React
+- Tailwind CSS
