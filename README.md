@@ -28,6 +28,7 @@ Welcome to my repository for devChallenges solutions! My solutions for the vario
 
 - Minimal Blog Card&ensp;&ensp;&ensp;[CODE](https://github.com/Achal-00/devChallenges/tree/main/CODE/minimal-blog-card)&ensp;&ensp;|&ensp;&ensp;[LIVE](https://achal-00.github.io/devChallenges/minimal-blog-card/)
 - Business Blog Card&ensp;&ensp;&ensp;[CODE](https://github.com/Achal-00/devChallenges/tree/main/CODE/business-blog-card)&ensp;&ensp;|&ensp;&ensp;[LIVE](https://achal-00.github.io/devChallenges/business-blog-card/)
+- Testimonial Page&ensp;&ensp;&ensp;[CODE](https://github.com/Achal-00/devChallenges/tree/main/CODE/testimonial-page)&ensp;&ensp;|&ensp;&ensp;[LIVE](https://achal-00.github.io/devChallenges/testimonial-page/)
   <br><br>
 
 ## Folder Structure
