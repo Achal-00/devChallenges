@@ -1,8 +1,14 @@
-# React + Vite
+# Contact Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Contact Page](https://github.com/Achal-00/devChallenges/assets/106076516/6cf5fb84-3fc9-43a3-a3ae-3eef958cb049)
 
-Currently, two official plugins are available:
+[Live Demo](https://achal-00.github.io/devChallenges/contact-page/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[Contact Page](https://devchallenges.io/challenge/31) challenge solution on [devChallenges](https://devchallenges.io/)
+<br><br>
+
+## Built With
+
+- Vite
+- React
+- Tailwind CSS
