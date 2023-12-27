@@ -2,9 +2,9 @@
 <div align="center">
   <img alt="" src="https://img.shields.io/github/repo-size/achal-00/devChallenges" />
   <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/achal-00/devChallenges" />
-  <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/achal-00/devChallenges" />
+  <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/achal-00/devChallenges?color=red" />
   <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/achal-00/devChallenges" />
-  <img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/t/Achal-00/devChallenges">
+  <img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/t/Achal-00/devChallenges?color=green">
 </div>
 <br>
 <p align="center">This repository contains my solutions for various challenges from <a href="https://devchallenges.io">devChallenges</a></p>
